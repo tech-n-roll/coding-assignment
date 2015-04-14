@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * Created on 11/4/15, 8:13 PM
- * GateCode.java
+ * Gate.java
  *
  * @author gshankar
  */
