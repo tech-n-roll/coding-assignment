@@ -4,7 +4,7 @@ import com.barclays.constants.Gate;
 
 /**
  * Created on 11/4/15, 8:04 PM
- * FlightSchedule.java
+ * FlightDeparture.java
  *
  * @author gshankar
  */
