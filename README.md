@@ -1,4 +1,4 @@
-# barclays-assignment
+# coding-assignment
 
 Coding problem Airport Baggage - Pathfinding
  
